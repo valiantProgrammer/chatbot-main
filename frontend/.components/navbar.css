@@ -1,0 +1,16 @@
+input {
+    width: 30vw;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.searchEnter{
+    width: 36vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.searchEnter button{
+    padding: 2px;
+}
